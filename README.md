@@ -1,10 +1,3 @@
-Below is a **clean, production-ready `README.md`** you can drop straight into your GitHub repo.
-It matches what you’ve built (React + Node + JSON file storage) and is recruiter-friendly.
-
-You can **copy-paste this as-is**.
-
----
-
 # Expense Tracker – React + Node (JSON Storage)
 
 A simple, full-stack **Expense Tracker web application** built using **React (Vite)** for the frontend and **Node.js + Express** for the backend.
